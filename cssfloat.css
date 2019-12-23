@@ -1,0 +1,33 @@
+.container {
+	width: 800px;
+	margin: auto;
+	border: 1px solid black;
+	padding: 10px;
+	/*overflow: auto;*/
+}
+
+
+.kiri {
+	width: 150px;
+	height: 500px;
+	background-color: #afabcc;
+	float: left;
+}
+
+.tengah {
+	width: 500px;
+	height: 500px;
+	background-color: #48abcc;
+	float: left;
+}
+
+.kanan {
+	width: 150px;
+	height: 500px;
+	background-color: #dfa7cc;
+	float: right;
+}
+
+.clear {
+	clear: left;
+}
